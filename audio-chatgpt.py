@@ -1440,4 +1440,4 @@ if __name__ == '__main__':
         clear_speech.click(lambda: [], None, state)
         clear_speech.click(bot.clear_video, None, outvideo)
 
-        demo.launch(server_name="0.0.0.0", server_port=7860, share=True)
+        demo.launch(server_name="0.0.0.0", server_port=8000, share=True)
